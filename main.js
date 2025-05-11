@@ -1,0 +1,1 @@
+console.log('Branded LongSmart Strategy loaded');
